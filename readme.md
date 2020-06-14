@@ -5,7 +5,7 @@ View culture data with pandas and plotly®
 ## What does it do
 With Culture Data Viewer (CDV) you can work with culture data coming directly from the reactor\* and merge your offline measurements. CDV calculates automatically relevant parameters (e.g., yields, rates), and lets you explore beautiful interactive charts made with plotly.
 <br>
-![Culture Data Viewer in action](Screenshots/CDV2.PNG?raw=true)
+![Culture Data Viewer in action](CDV2.PNG?raw=true)
 
 ### Input
 \* Culture Data Viewer is currently developed to work with data from DASGIP® reactors.
